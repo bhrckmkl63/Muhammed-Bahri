@@ -1,0 +1,5 @@
+{
+  "name": "Cafe Adisyon Sistemi",
+  "description": "25 masalık bir cafe için tasarlanmış, sipariş ve adisyon takibi yapabilen modern bir otomasyon sistemi. Masaların doluluk durumunu anlık olarak gösterir ve sipariş eklemeyi kolaylaştırır.",
+  "requestFramePermissions": []
+}
